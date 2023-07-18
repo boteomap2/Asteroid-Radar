@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Learning/Udacity/Workspace/AsteroidRadarApp/app/src/main/res/layout/activity_main.xml" value="0.20108695652173914" />
+        <entry key="..\:/Learning/Udacity/Workspace/AsteroidRadarApp/app/src/main/res/layout/asteroid_item.xml" value="0.1" />
+        <entry key="..\:/Learning/Udacity/Workspace/AsteroidRadarApp/app/src/main/res/layout/fragment_detail.xml" value="0.22826086956521738" />
+        <entry key="..\:/Learning/Udacity/Workspace/AsteroidRadarApp/app/src/main/res/layout/fragment_main.xml" value="0.1" />
+        <entry key="..\:/Learning/Udacity/Workspace/AsteroidRadarApp/app/src/main/res/menu/main_overflow_menu.xml" value="0.2671875" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
